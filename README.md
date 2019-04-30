@@ -1,7 +1,12 @@
 # INTRODUCTORY_VIBOOK
-Introduction &amp; onboarding for the Kannibal Wear.
+Introduction and onboarding for the Kannibal Wear in form of a visual book.
 
-- sticker outlines for printout and self-application + how to
-- stencil outlines + how to
+**Contents:**
 - Kannibal Product Lineup
 - New Releases!
+- Mood Book
+- Vibe Book
+- sticker outlines for printout and self-application + how to
+- stencil outlines + how to
+
+
